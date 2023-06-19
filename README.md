@@ -1,2 +1,3 @@
 # AEDS
-Abstract Encrypted Data Storage
+
+Authenticated Encrypted Data Storage
